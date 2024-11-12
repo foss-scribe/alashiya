@@ -3,7 +3,7 @@ Title: Alashiya
 date: 2024-11-12 19:00:00
 ---
 
-# Alashiya
+# About Alashiya
 
 Alashiya is the setting for [Chris Rosser's](https://chrisrosser.net) [*The Codex of Destiny*](https://chrisrosser.net/books/codex-of-destiny), and other stories. It's liberally inspired by many historical cultures and time periods, but notably the Ancient Aegean, Near East with a dash of India and China added for flavour. In summary, it's a sandpit where I can indulge my life-long passion for archaeology, history and martial arts.
 
