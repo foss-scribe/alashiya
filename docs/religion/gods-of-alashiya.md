@@ -1,4 +1,6 @@
-# Gods and Goddesses of Alashiya
+---
+Title: Gods and Goddesses of Alashiya
+---
 
 ## Zyros, God of Sky and Storms
 
@@ -57,20 +59,20 @@
 - **Personality**: Just and wise, often the voice of reason among the gods. He brings clarity to the complex.
 - **Domain**: Sunlight, knowledge, wisdom, and enlightenment.
 
-## . Orithys, Goddess of Wind and Freedom
+## Orithys, Goddess of Wind and Freedom
 
 - **Appearance**: A lithe winged figure with feathers in her hair.
 - **Personality**: Free-spirited and adventurous, she has an uncontainable joy for life and exploration.
 - **Domain**: Wind, travel, freedom, and birds.
 
-## . Elentis, God of Magic and Illusion
+## Elentis, God of Magic and Illusion
 
 - **Appearance**: A tall, gaunt figure with shimmering robes that change colour and eyes like deep pools.
 - **Personality**: Cunning, inventive, and unpredictable, with a love for bending reality to his will.
 - **Domain**: Magic, illusions, and sorcery.
 
 
-## . Ketrax, Goddess of Time and Fate
+## Ketrax, Goddess of Time and Fate
 
 - **Appearance**: An ageless figure with a cloak covered in constellations, her eyes filled with stars.
 - **Personality**: Detached yet compassionate, she sees time as an unbreakable flow and holds immense patience.
