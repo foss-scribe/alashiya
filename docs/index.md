@@ -1,5 +1,8 @@
 ---
 title: Alashiya
+head:
+    title: Alashiya | Chris Rosser
+    description: Alashiya is an open source fantasy setting created by Chris Rosser's for The Codex of Destiny and other stories.
 date: 2024-11-12 19:00:00
 ---
 
