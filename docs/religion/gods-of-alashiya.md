@@ -60,7 +60,7 @@ date: 2024-11-12 19:00:00
 - **Personality**: Just and wise, often the voice of reason among the gods. He brings clarity to the complex.
 - **Domain**: Sunlight, knowledge, wisdom, and enlightenment.
 
-## Orithys, Goddess of Wind and Freedom
+## Ornithys, Goddess of Wind and Freedom
 
 - **Appearance**: A lithe winged figure with feathers in her hair.
 - **Personality**: Free-spirited and adventurous, she has an uncontainable joy for life and exploration.
