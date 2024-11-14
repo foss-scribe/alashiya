@@ -79,3 +79,7 @@ date: 2024-11-12 19:00:00
 - **Personality**: Detached yet compassionate, she sees time as an unbreakable flow and holds immense patience.
 - **Domain**: Time, destiny, and the inevitability of fate.
 
+## Morvath, the Dark Sovereign
+
+- **Description**: Morvath is a towering figure draped in shadowy robes that seem to absorb light. His eyes burn with an otherworldly fire, and his skeletal hands are adorned with rings made of the bones of the damned. As the ruler of the underworld, Morvath embodies the darker aspects of death and despair, overseeing the souls that wander in limbo and the demons that serve him.
+- **Domain**: The Underworld and Demonic Realms
