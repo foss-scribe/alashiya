@@ -1,7 +1,11 @@
 title: Glossary
 description: Glossary of terms
 terms:
+    -   term: Helotikoi
+        description: A member of the slave class.
     -   term: metikoi
-        description: The slave class of Alashiya.
+        description: The free-born, non-citizen class of Alashiya. Typically, a citizen of another polis or a foreign country. The status of metikoi differs widely between city-states.
+    -   term: penestoi
+        description: A labourer bonded to the land on which he worked, and while not a slave has few rights.
     -   term: Xotikoi
         description: A race of long-lived humanoids, now thought to be extinct.
