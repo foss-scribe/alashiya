@@ -8,7 +8,7 @@ date: 2024-11-20
 >
 > Acantha, Keeper of the Still Flame
 
-Acantha, known as variously as The Wandering Sage, Keeper of the Still Flame, and Founder of the Sixfold Path, was a monk and philosopher who exerted profound impact on Alashiyan society and religion during his life and beyond. A divisive and controversial figure, his teachings challenged the notion of the gods' divinity and the role of the temple priests and oracles as their intermediaries.
+Acantha, known variously as The Wandering Sage, Keeper of the Still Flame, and Founder of the Sixfold Path, was a monk and philosopher who exerted profound impact on Alashiyan society and religion during his life and beyond. A divisive and controversial figure, his teachings challenged the notion of the gods' divinity and the role of the temple priests and oracles as their intermediaries.
 
 ## Biography
 
