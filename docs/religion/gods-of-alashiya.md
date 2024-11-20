@@ -28,7 +28,7 @@ date: 2024-11-12 19:00:00
 - **Personality**: Playful, elusive, and mischievous. Known to spark romances or sow discord just for fun.
 - **Domain**: Love, beauty, seduction, and mischief.
 
-## Tyradon, God of War and Valor
+## Tyradon, God of War and Valour
 
 - **Appearance**: A towering warrior clad in heavy, battle-worn armour with scars that tell tales of countless battles.
 - **Personality**: Honourable and disciplined, he values bravery and respects all fighters, from the meekest to the most powerful.
