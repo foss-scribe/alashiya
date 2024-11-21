@@ -1,7 +1,7 @@
 ---
 title: "Gods and Goddesses of Alashiya"
 date: 2024-11-12 19:00:00
-description: "A summary of the gods and goddesses of the Alashiyan pantheon.""
+description: "A summary of the gods and goddesses of the Alashiyan pantheon."
 ---
 
 ## Zyros, God of Sky and Storms
