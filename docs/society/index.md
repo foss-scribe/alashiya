@@ -1,7 +1,7 @@
 ---
 title: Society
 description: "Articles about Alashiyan society"
-layout: index
+layout: article_list
 ---
 
 
