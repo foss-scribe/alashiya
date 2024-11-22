@@ -2,6 +2,7 @@
 title: Magic of Alashiya
 date: 2024-11-14
 description: Magic systems in the world of Alashiya.
+layout: article_list
 ---
 
 Magic is interwoven through the world of Alashiya like golden threads in a vast tapestry. It is a rare, powerful and volatile force, rightly viewed by most people in awe and abject fear.

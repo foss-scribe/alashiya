@@ -2,6 +2,7 @@
 title: Alashiyan economy
 date: 2024-11-14
 description: "About the Alashiyan economy."
+layout: article
 ---
 
 
