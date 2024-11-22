@@ -2,6 +2,7 @@
 title: "Acantha, Keeper of the Still Flame"
 date: 2024-11-20
 description: "Biography of the philosopher and monk, Acantha."
+layout: article
 ---
 
 
