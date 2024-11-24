@@ -18,7 +18,7 @@ date: 2024-11-24
 | Umbrion | 31 | Umbrial | Summer |
 | Lunaris | 31 | Lunara | Summer |
 | Solarion | 30 | Solaris | Autumn |
-| Orithion | 31 | Ornithys | Autumn |
+| Ornithion | 31 | Ornithys | Autumn |
 | Elentar | 30 | Elentis | Autumn |
 | Ketranis | 31 | Ketra | Winter |
 
