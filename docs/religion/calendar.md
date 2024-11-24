@@ -81,7 +81,7 @@ date: 2024-11-24
 
         Celebrated during the peak of bloom, people gather to create floral wreaths, decorate public spaces, and plant new trees. They conduct dances to honour Sylphia and perform rituals for bountiful harvests and growth.
 
-   - **Harvest’s Day**
+   - **Harvest Day**
         
         A festival to thank Sylphia for her gifts, where families prepare feasts with the season’s first crops. Fields are decorated, and animals are blessed. Special foods, herbal teas and wine are shared, celebrating the harmony of nature.
 
