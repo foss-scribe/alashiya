@@ -27,7 +27,7 @@ date: 2024-11-24
 
 ### Festivals of Zyros, God of Storms and Sky
 
-   - **Storm Call** (Zyrios)  
+   - **Storm Call**
      
         Held during the height of winter, Storms Call celebrates Zyros' mastery over storms with bonfires and drums. People wear metal adornments to call lightning and dance to summon the god’s power. Offerings of iron and stone are cast into a ceremonial fire.
    
@@ -51,7 +51,7 @@ date: 2024-11-24
      
         At the start of spring, bonfires are lit in every village and city. Artisans present their finest creations, and forges burn brightly in Ignair’s honour. People wear red and orange, and perform fire dances where devotees jump through flames to receive Ignair’s blessing.
 
-   - **Forge Light** (Summer Solstice)  
+   - **Forge Light**
 
         A celebration of creativity and light, where people hold craft fairs, showing off handmade items. Competitions in metalworking, cooking, and painting honour Ignair’s creativity. Sparks are ceremonially cast from the forges at sunset as an offering.
 
