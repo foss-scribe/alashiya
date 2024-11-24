@@ -1,6 +1,6 @@
 ---
 title: Calendar of Alashiya
-description: The Calendar of Alashiya, including the major religious festivals celebrated in honour of the major gods and goddesses.
+description: "The Calendar of Alashiya, including the major religious festivals celebrated in honour of the major gods and goddesses.""
 layout: article
 date: 2024-11-24
 ---
@@ -139,9 +139,9 @@ date: 2024-11-24
 
    - **Circle of Ages**
      
-    On the last day of the year, people gather at sunset to perform a ritual of reflection and renewal. Each person holds an hourglass and flips it at midnight, symbolizing the turn of time. Elders share wisdom and blessings for the coming year.
+        On the last day of the year, people gather at sunset to perform a ritual of reflection and renewal. Each person holds an hourglass and flips it at midnight, symbolizing the turn of time. Elders share wisdom and blessings for the coming year.
 
    - **The Stillness**
      
-    A quiet day of reflection, where people refrain from working and meditate on time’s passage. They visit family graves, pay respects, and write letters to themselves about their goals, to be opened in the next year.
+        A quiet day of reflection, where people refrain from working and meditate on time’s passage. They visit family graves, pay respects, and write letters to themselves about their goals, to be opened in the next year.
 
