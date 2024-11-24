@@ -1,6 +1,6 @@
 ---
 title: Calendar of Alashiya
-description: "The Calendar of Alashiya, including the major religious festivals celebrated in honour of the major gods and goddesses.""
+description: "The Calendar of Alashiya, including the major religious festivals celebrated in honour of the major gods and goddesses."
 layout: article
 date: 2024-11-24
 ---
